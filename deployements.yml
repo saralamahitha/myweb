@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: saralamahitha/myweb:5.0.0
+        image: saralamahitha/myweb:6.0.0
         ports:
         - containerPort: 8080
